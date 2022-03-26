@@ -1,0 +1,51 @@
+/* --------------x---font-family: Niconne ------------------x------------*/
+@font-face{
+    font-family: Niconne;
+    src:url(../fonts/Niconne/Niconne-Regular.ttf)
+}
+/* ----x-------- font-family: Niconne -----------x---------*/
+/* --------------x---font-family: Josefin_sans ------------------x------------*/
+@font-face{
+    font-family: Josefin_Sans ;
+    src:url(../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf)
+}
+/* ----x-------- font-family: Josefin_sans-----------x---------*/
+/* --------------x---font-family: Orbitron ------------------x------------*/
+@font-face{
+    font-family: Orbitron;
+    src:url(../fonts/Orbitron/Orbitron-VariableFont_wght.ttf)
+}
+/* ----x-------- font-family: Orbitron -----------x---------*/
+/* --------------x---font-family: Playfair_Display------------------x------------*/
+@font-face{
+    font-family: Playfair_Display;
+    src:url(../fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf)
+}
+/* ----x-------- font-family: Playfair_Display -----------x---------*/
+/* --------------x---font-family: Romanesco ------------------x------------*/
+@font-face{
+    font-family: Romanesco;
+    src:url(../fonts/Romanesco/Romanesco-Regular.ttf)
+}
+/* ----x-------- font-family: Romanesco-----------x---------*/
+
+
+
+
+@font-face{
+    font-family: Romanesco;
+    src:url(../fonts/Luckiest_Guy/LuckiestGuy-Regular.ttf)
+}
+/* ----x-------- font-family: Romanesco-----------x---------*/
+
+
+@font-face{
+    font-family: Romanesco;
+    src:url(../fonts/Lobster_Two/LobsterTwo-Regular.ttf)
+}
+/* ----x-------- font-family: Romanesco-----------x---------*/
+@font-face{
+    font-family: Romanesco;
+    src:url(../fonts/Aclonica/Aclonica-Regular.ttf)
+}
+/* ----x-------- font-family: Romanesco-----------x---------*/
